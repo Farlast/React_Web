@@ -1,0 +1,89 @@
+/* Custom formgroup */
+.form-group label.profile-admin {
+    padding: 0 45px;
+}
+
+@media screen and (max-width: 768px) {
+    .form-group label.profile-admin {
+        padding: 0 25px;
+    }
+}
+
+/* Custom table */
+.ag-theme-alpine .ag-cell {
+    display: flex;
+    align-items: center;
+}
+
+/* Custom field in admin apge */
+.custom-admin-input input[type="text"].form-control {
+    font-size: 18px;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+
+.custom-admin-input textarea.form-control {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.custom-admin-input select {
+    font-size: 18px;
+}
+
+.custom-admin-input .dropzone {
+    font-size: 20px;
+}
+
+.custom-admin-input #startpublishday {
+    font-size: 18px;
+}
+
+.custom-admin-input #endpublishday {
+    font-size: 18px;
+}
+
+.MenuManagement .menu-main-item span {
+    position: absolute;
+    right: 15px;
+    top: -7px;
+}
+
+.MenuManagement .menu-sub-item span {
+    position: absolute;
+    right: 15px;
+    top: -7px;
+}
+
+.admin-content input#searchfield.form-control {
+    margin-bottom: 0;
+}
+
+.admin-content input#searchnumber.form-control {
+    margin-bottom: 0;
+}
+
+.admin-content .form-inline .button-group {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .MenuManagement .menu-main-item span {
+        right: -30px !important;
+    }
+
+    .MenuManagement .card-content {
+        margin: 15px 0;
+        padding-left: 0.5rem !important;
+        padding-right: 0.5rem !important;
+    }
+
+    .MenuManagement .menu-subset-item {
+        padding-left: 12px !important;
+    }
+
+    .MenuManagement .createMenu {
+        padding: 0 !important;
+    }
+}

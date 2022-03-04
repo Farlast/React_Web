@@ -1,0 +1,496 @@
+.custom-allPage {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.custom-complain {
+    margin-left: 0;
+    margin-right: 0;
+}
+.custom-complain .subheader {
+    font-size: 30px;
+    padding: 17px 95px;
+    margin-bottom: 0;
+}
+
+.custom-complain .subheader .followComplain {
+    font-size: 30px;
+    padding: 17px 95px;
+    margin-bottom: 0;
+}
+
+.custom-complain .content-data {
+    padding: 15px 48px;
+}
+
+.custom-complain input[type="text"].form-control {
+    font-size: 25px !important;
+    padding: 20px 15px 20px 45px !important;
+}
+
+.custom-complain select {
+    font-size: 25px !important;
+    padding: 20px 15px 20px 45px !important;
+}
+
+.custom-complain .file-custom {
+    padding: 0 28px;
+}
+
+.custom-complain .dropzone {
+    font-size: 20px;
+}
+
+.custom-complain .dropzone p {
+    margin-bottom: 0;
+}
+
+.secure-head {
+    text-align: left !important;
+    padding-left: 32px;
+    font-size: 25px;
+}
+
+.custom-complain .formContent li.list-item .title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.custom-complain .formContent li.list-item .detail {
+    font-size: 25px;
+    padding-left: 65px;
+}
+
+.custom-complain .list-item {
+    margin: 15px 48px;
+}
+
+.custom-complain .list-item.detail {
+    margin: 15px 48px;
+    padding-left: 0;
+}
+
+.custom-complain li.list-item span.title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.custom-complain li.list-item span.detail {
+    font-size: 25px;
+    padding-left: 45px;
+}
+
+.custom-complain .swal2-styled.swal2-confirm {
+    display: inline-block;
+    background: transparent;
+    color: #000;
+}
+
+.custom-complain .step {
+    padding: 50px 95px;
+    width: 100%;
+}
+
+.custom-survey {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.custom-survey .survey-item {
+    border-bottom: 0;
+}
+
+.custom-survey .survey-item h4.content-title {
+    margin-bottom: 0 !important;
+    font-size: 25px !important;
+}
+
+.custom-survey .survey-item h4.content-title a {
+    margin-bottom: 0 !important;
+    font-size: 25px !important;
+    color: #202124;
+}
+
+.custom-survey .survey-item .text {
+    font-size: 25px;
+    color: #797979;
+    font-weight: bold;
+    margin-right: 16px;
+}
+
+.custom-survey .survey-item .date {
+    color: #a6adb4;
+    font-size: 20px;
+    font-style: italic;
+    margin-right: 16px;
+}
+
+.custom-survey .survey-item .date i {
+    margin-right: 4px;
+}
+
+.custom-survey .survey-item .view {
+    color: #a6adb4;
+    font-size: 19px;
+}
+
+.custom-survey .survey-item .view i {
+    margin-right: 4px;
+}
+
+.custom-survey .survey-item .view .before {
+    border-radius: 1px;
+    border-left: 2px solid;
+    margin-right: 1rem;
+}
+
+.custom-survey .card-list {
+    width: 100%;
+    margin: 0 95px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.custom-survey .card-list.detail {
+    width: 100%;
+    margin: 0 18px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.custom-survey .card-list .detail-content {
+    padding: 40px 38px;
+}
+
+.custom-survey .card-list .detail-content .detail-question {
+    margin: 0;
+    padding: 22px 47px;
+    background-color: #4ecdc4;
+    border-radius: 10px;
+}
+
+.custom-survey .card-list .detail-content .detail-answer {
+    margin: 12px 0 0 32px;
+}
+
+.custom-survey .card-list .detail-content .detail-answer .ans {
+    margin-bottom: 0;
+}
+
+.custom-survey .answer-input {
+    margin: 12px 47px;
+    width: 50%;
+    border-radius: 35px;
+    font-size: 25px;
+    padding: 0 38px;
+}
+
+.custom-survey .answer-input-select {
+    margin: 12px 47px;
+    width: 50%;
+    border-radius: 35px;
+    font-size: 25px;
+    padding: 0 38px;
+    appearance: 0 15px;
+    appearance: none;
+}
+
+.custom-survey .select-arrow {
+    left: 50%;
+    position: absolute;
+    top: 32%;
+}
+
+.custom-survey .answer-input-radio {
+    font-size: 25px;
+}
+
+.custom-survey .card-list .detail-content .detail-question h2 {
+    font-size: 30px;
+    margin-bottom: 0;
+    color: #fff;
+}
+
+.custom-survey .card-list .list {
+    width: 100%;
+    padding: 20px 27px;
+}
+
+.custom-survey h2.underline-header {
+    margin-bottom: 0;
+    font-size: 40px;
+}
+.custom-survey .underline-title {
+    width: 70px;
+    border-bottom: 5px solid;
+    border-radius: 2.5px;
+    color: #fbb617;
+    margin: 0 auto;
+}
+
+.custom-survey .sub-title-detail {
+    padding: 0 100px;
+    font-size: 30px;
+    color: #666666;
+}
+
+.custom-survey .question-item {
+    padding: 0;
+    background-color: transparent;
+}
+
+.ViewEducationCord .title {
+    font-size: 25px !important;
+}
+
+.ViewEducationCord .detail {
+    font-size: 25px !important;
+    padding: 0 12px;
+}
+
+.ViewEducationCord .cardItem {
+    padding: 0 12px;
+}
+
+.SearchBestPersonAward .card {
+    margin-bottom: 1rem;
+}
+
+.ReadNews {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.ReadNews .time-ago p {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.ReadNews .customUIPro {
+    display: flex;
+    font-size: 25px;
+    margin-bottom: 18px;
+}
+
+.ReadNews .customUIPro img {
+    margin-right: 20px;
+}
+
+.ReadActivity .contentTop {
+    margin-top: 20px;
+}
+
+.ReadActivity .contentTop h1 {
+    font-size: 40px;
+    font-weight: bold;
+    word-break: break-word;
+}
+
+.ReadActivity li.list-item > .title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ReadActivity li.list-item > .detail {
+    font-size: 25px;
+}
+
+.ReadActivity .time-ago p {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.ReadActivity .news-activity-data {
+    position: relative;
+    padding: 0 36px;
+}
+
+.ReadActivity .news-activity-data::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #f9f8fe;
+    top: -50px;
+}
+
+.ReadActivity .cardDetail p {
+    font-size: 25px;
+}
+
+.elibRead li.list-item > .title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.elibRead li.list-item > .detail {
+    font-size: 25px;
+}
+
+.ViewMOU .list-icon {
+    font-size: 25px;
+}
+
+.ViewMOU .list-icon .detail {
+    font-size: 25px;
+    padding: 0;
+}
+
+.ViewMOU h2.header {
+    margin-left: 32px;
+}
+
+.ViewEducationCord h2.header {
+    margin-left: 32px;
+}
+
+.ViewNetwork h2.header {
+    margin-left: 32px;
+}
+
+.ViewMOU .detail {
+    font-size: 25px;
+    padding: 0 95px;
+    word-break: break-all;
+}
+
+.ViewMOU .tab-pane {
+    padding: 0 95px;
+}
+
+.comment-item .comment-tool .comment-name .user-name {
+    font-size: 25px;
+}
+
+.comment-item .comment-tool .comment-name .time-ago {
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 12px;
+}
+
+.comment-item {
+    font-size: 25px;
+    color: #797979;
+}
+
+.comment-box #postcomment {
+    font-size: 25px;
+}
+
+.viewContent::before {
+    content: "";
+    border-left: 2px solid #a6adb4;
+    margin: 0 16px;
+}
+
+.contactUs .btn-list .detail {
+    font-size: 22px;
+}
+
+.contactUs h3 {
+    font-size: 30px;
+}
+
+.contactUs p {
+    font-size: 25px;
+    color: #797979;
+}
+
+.contactUs .formContent textarea {
+    font-size: 25px;
+    color: #797979;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: bold;
+}
+
+.book-content {
+    max-width: 100%;
+}
+
+.react-pdf__Page {
+    width: 100vw;
+    max-width: 100%;
+    background-color: #f9f8fe;
+}
+
+.react-pdf__Page__canvas {
+    width: auto !important;
+    margin: 0 auto;
+}
+
+.player-wrapper {
+    margin: 0 auto;
+}
+
+.react-pdf__Outline {
+    width: 538px;
+    margin: auto;
+}
+
+.react-pdf__Outline ul {
+    padding-left: 18px;
+    background-color: #fff;
+    margin-left: 0;
+}
+
+.react-pdf__Document {
+    background-color: #f9f8fe;
+}
+
+.page-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul#iconset {
+    right: -22px;
+}
+
+#replycomment {
+    font-size: 25px;
+}
+
+@media screen and (max-width: 1440px) {
+    ul#iconset {
+        right: 112px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .homeColActivity {
+        margin-top: 16px;
+    }
+
+    #carouselExampleIndicators {
+        padding-right: 36px;
+    }
+
+    ul#iconset {
+        right: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .surVeyCol {
+        padding: 0 8px !important;
+    }
+    .custom-survey .card-list {
+        margin: 0 20px;
+    }
+
+    .just768pxDisplay {
+        padding: 0;
+    }
+
+    #carouselExampleIndicators {
+        padding-right: 30px;
+    }
+
+    ul#iconset {
+        right: -20px;
+    }
+}

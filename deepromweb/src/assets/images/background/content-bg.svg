@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="744" height="394" viewBox="0 0 744 394">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #f2f6f8;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_13175" data-name="Rectangle 13175" class="cls-1" width="744" height="394" transform="translate(-0.102)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_shape" data-name="Mask shape" class="cls-2" transform="translate(0.102)">
+    <ellipse id="Ellipse_571" data-name="Ellipse 571" class="cls-3" cx="411.5" cy="412" rx="411.5" ry="412" transform="translate(263.898 -216)"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+
+
+/*-----------navbar--------------*/
+
+.navbar{
+  height: 90px;
+  padding: 1px;
+}
+
+/*------------sidebar-------------*/
+.Navbar{
+  align-items: "center";
+  justify-content: "center";
+  height:"90px";
+  flex: 1;
+  color: #282c34;
+  padding: 10px;
+  background: #e9ebee;
+}
+.Sidebar-font{
+  font-size: 25px;
+}
+.side-navigation-panel-select-option-text {
+  font-size: 25px; 
+  margin-left: 1px !important;
+}
+
+.side-navigation-panel-select-inner-option{
+  padding: 10px !important;
+}

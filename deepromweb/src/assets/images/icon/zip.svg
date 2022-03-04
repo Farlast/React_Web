@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.15" height="53.151" viewBox="0 0 53.15 53.151">
+  <g id="Group_8" data-name="Group 8" transform="translate(-227 -301)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_793" data-name="Group 793" transform="translate(227 301)">
+        <path id="Path_5125" data-name="Path 5125" d="M26.575,0A26.575,26.575,0,1,1,0,26.575,26.575,26.575,0,0,1,26.575,0Z" fill="#edc951"/>
+        <path id="Path_5126" data-name="Path 5126" d="M171.861,162.641a26.573,26.573,0,0,1-26.451,24.042,25.508,25.508,0,0,1-2.834-.156l-9.976-9.976L158.231,149Z" transform="translate(-118.834 -133.532)" fill="#d6b137"/>
+        <path id="Path_5127" data-name="Path 5127" d="M132.6,97.6h20.284l5.336,5.346v27.541H132.6Z" transform="translate(-118.834 -87.468)" fill="#f8f8f8"/>
+        <path id="Path_5131" data-name="Path 5131" d="M328,97.6v5.346h5.336Z" transform="translate(-293.95 -87.468)" fill="#ebecec"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(289.505 199.693)">
+      <g id="Group_7" data-name="Group 7" transform="translate(-48.974 132.203)">
+        <g id="Group_6" data-name="Group 6">
+          <g id="Group_5" data-name="Group 5">
+            <rect id="Rectangle_1" data-name="Rectangle 1" width="25.897" height="12.44" fill="#9e7120"/>
+          </g>
+          <g id="Group_3" data-name="Group 3" transform="translate(0.848 1.321)">
+            <path id="Path_12" data-name="Path 12" d="M196.246,354.211h5.319v1.974h-8.65v-1.6l5.249-6.228H193.1v-1.974h8.384v1.6Z" transform="translate(-192.915 -346.387)" fill="#fff"/>
+            <path id="Path_13" data-name="Path 13" d="M249.075,356.185v-9.8h2.491v9.8Z" transform="translate(-238.29 -346.387)" fill="#fff"/>
+            <path id="Path_14" data-name="Path 14" d="M279.3,346.387c2.505,0,3.947,1.232,3.947,3.415,0,2.3-1.442,3.625-3.947,3.625h-1.778v2.757h-2.491v-9.8Zm-1.778,5.081h1.652c1.092,0,1.721-.546,1.721-1.582s-.63-1.539-1.721-1.539h-1.652Z" transform="translate(-259.045 -346.387)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

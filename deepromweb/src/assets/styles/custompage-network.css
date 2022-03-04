@@ -1,0 +1,65 @@
+.PersonNetwork {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.PersonNetwork .content-data {
+    padding: 0 68px;
+}
+
+.PersonNetwork .someInput {
+    padding: 0 18px !important;
+    text-align: center !important;
+}
+
+.PersonNetwork h2.thai-header {
+    font-size: 40px !important;
+}
+
+.SearchNetwork {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 26px;
+    padding-right: 26px;
+}
+
+.SearchMOU {
+    padding-left: 26px;
+    padding-right: 26px;
+}
+
+.CoorperationRegister .container.file {
+    padding: 0;
+}
+
+.ViewBestPerson {
+    font-size: 25px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.ViewBestPerson .subheader {
+    padding: 0 68px;
+}
+.ViewBestPerson .text-title {
+    font-size: 30px;
+    padding-left: 32px;
+}
+
+.ViewBestPerson .logo-img {
+    display: flex;
+    padding-left: 95px;
+}
+.ViewBestPerson .detail.text {
+    padding: 0 68px;
+    width: 100%;
+}
+
+.ViewBestPerson .tab-pane {
+    padding: 0 68px;
+}
+
+@media screen and (max-width: 991px) {
+    .ViewBestPerson .logo-img {
+        padding-left: unset;
+    }
+}

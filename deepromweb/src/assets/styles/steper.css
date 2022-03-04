@@ -1,0 +1,57 @@
+.followComplainStep {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+}
+
+.followComplainStep .boxProcess {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    border: 1px solid #fff;
+    border-radius: 100%;
+    background-color: #e7ebf5;
+    font-size: 50px;
+    font-weight: bold;
+    color: #707070;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.followComplainStep .boxProcess::after {
+    content: ". . .";
+    position: absolute;
+    color: #c6c6c6;
+    left: calc(100% + 75px);
+    transform: rotate(90deg);
+}
+
+.followComplainStep .boxProcess.ending::after {
+    content: none;
+}
+
+.followComplainStep .boxProcess.pending {
+    background-color: #fbb617;
+    color: #fff;
+}
+
+.followComplainStep .boxProcess.success {
+    background-color: #12b72d;
+    color: #fff;
+}
+
+.followComplainStep .boxProcess .textTitle {
+    position: absolute;
+    top: 85px;
+    width: 145px;
+    font-size: 20px;
+    color: #b2b2b2;
+    text-align: center;
+    font-weight: 500;
+}
+
+.followComplainStep .boxProcess.pending .textTitle {
+    color: #000;
+    font-weight: bold;
+}

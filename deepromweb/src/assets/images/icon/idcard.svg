@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.408" height="37.208" viewBox="0 0 44.408 37.208">
+  <defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #464547;
+      }
+
+      .cls-2 {
+        fill: #703e3e;
+      }
+
+      .cls-3 {
+        fill: #eee3c8;
+      }
+
+      .cls-4 {
+        fill: #6ba3a3;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_25284" data-name="Group 25284" transform="translate(-152.595 -784.792)">
+    <g id="Rectangle_13771" data-name="Rectangle 13771" class="cls-1" transform="translate(159.329 784.792) rotate(15.009)">
+      <rect class="cls-5" width="39" height="26" rx="5"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="38" height="25" rx="4.5"/>
+    </g>
+    <rect id="Rectangle_13767" data-name="Rectangle 13767" class="cls-2" width="44" height="29" rx="5" transform="translate(153 793)"/>
+    <g id="icon" transform="translate(158.42 799.706)">
+      <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-3" cx="4.303" cy="4.303" r="4.303" transform="translate(3.978 0)"/>
+      <path id="Union_14" data-name="Union 14" class="cls-3" d="M0,6.366V3.933l.2-.069c-.137-.015-.208-.027-.2-.035A10.444,10.444,0,0,1,8.247,0,10.744,10.744,0,0,1,16.56,3.9a.081.081,0,0,1,.018.033h0v.012h0V6.366Z" transform="translate(0 9.875)"/>
+    </g>
+    <g id="Group_25284-2" data-name="Group 25284" transform="translate(0 5)">
+      <rect id="Rectangle_13768" data-name="Rectangle 13768" class="cls-4" width="10" height="2" rx="1" transform="translate(179 808)"/>
+      <rect id="Rectangle_13769" data-name="Rectangle 13769" class="cls-4" width="10" height="2" rx="1" transform="translate(179 802)"/>
+      <rect id="Rectangle_13770" data-name="Rectangle 13770" class="cls-4" width="10" height="2" rx="1" transform="translate(179 796)"/>
+    </g>
+  </g>
+</svg>

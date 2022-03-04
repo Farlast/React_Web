@@ -1,0 +1,242 @@
+.edit-profile{
+    margin-top: 60px;
+}
+.avatar-circle {
+    position: relative;
+    line-height: 0;
+    display: block;
+    border: 8px solid rgba(255,255,255,0.4);
+    border-radius: 50%;
+    transition: linear 0.25s;
+    height: 216px;
+    width: 216px;
+    margin: auto;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 8%), 0 4px 8px 0 rgb(0 0 0 / 5%);
+}
+.avatar-circle img {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.avatar-circle:hover {
+	transition: ease-out 0.2s;
+  border: 8px solid rgba(255,255,255,0.8);
+  -webkit-transition: ease-out 0.2s;
+}
+.green-sidebar{
+    display: flex;
+    background-color: #36A9AE;
+    border-radius: 6px;
+    height: 100%;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 8%), 0 4px 8px 0 rgb(0 0 0 / 5%);
+}
+#edit-avatar-btn{
+    position: absolute;
+    background-color: #FFF;
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    display: flex;
+    padding: 15px;
+    right: 0;
+    bottom: 0;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 8%), 0 4px 8px 0 rgb(0 0 0 / 5%);
+}
+#edit-avatar-btn > img{
+    max-width: 30px;
+    max-height: 30px;
+    margin: auto;
+    border-radius: 0;
+}
+.user-tools{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#user-tools-menu{
+    padding-top: 50px;
+}
+#user-tools-menu a{
+    color: #FFF;
+    font-size: 30px;
+    line-height: 1.75rem;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 10px 0px;
+    padding: 15px 10px;
+    display: block;
+}
+#user-tools-menu ul{
+    list-style: none;
+    padding: 0;    
+}
+#user-tools-menu ul li{
+    min-height: 40px;
+    
+}
+#user-tools-menu ul li:hover{
+    background-color: rgb(255 255 255 / 35%);
+}
+#user-tools-menu ul li.selected {
+    background-color: rgb(141 231 243 / 71%);
+}
+#bookmark-list .card{
+    height:470px;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.bookmark-image{
+    height: 355px;
+    overflow: hidden;
+}
+.bookmark-image > img{
+    height: 355px;
+    max-width: 100%;
+    border-radius: 8px;
+}
+.card-content-title{
+    font-size: 1.5rem;
+    line-height: 1.9rem;
+    /*white-space: nowrap;*/
+    font-weight: bold;
+    overflow: hidden;
+  text-overflow: ellipsis;
+  height: 60px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+#activity-list .card {
+    overflow: hidden;
+    margin-bottom: 15px;
+    height:310px;
+    border-radius: 15px 35px 0 0;
+}
+#activity-list img.cover {
+    height: 200px;
+    max-width: 100%;
+    border-radius: 15px 35px 0 0;
+}
+ul.activity-list{
+    list-style: none;
+    padding:0;
+}
+.activity-list >li{
+    height: 185px;
+    overflow: hidden;
+    border-bottom: 1px solid #e2e2e2;
+}
+.activity-list >li img.cover{
+    border-radius: 12px 35px 0 0 !important;
+    height: 140px !important;
+    width: 200px;
+    margin-top: 15px;
+    float: left;
+}
+.activity-list-content{
+    margin: 30px 15px 0 230px;
+}
+#elerning-list .card-content-title {
+    font-size: 2rem;
+    line-height: 2.05rem;
+  }
+#elerning-list img.cover {
+    height: 200px;
+    max-width: 100%;
+    border-radius: 15px 35px 0 0;
+}
+.class-info{
+    font-size: 1.5rem;
+    line-height: 2.05rem;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    float: right;
+}
+.class-info > span{
+    color:#FAAB3E;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.card-body > a.btn.btn-primary{
+    width:100%;
+    background-color: #2095D3;
+    border-color: #1b85bd;
+    font-size: 2rem;
+    line-height: 2.25rem;
+    border-radius: 35px;
+}
+#now-elerning .card {
+    overflow: hidden;
+    margin-bottom: 15px;
+    height:455px;
+    border-radius: 15px 35px 0 0;
+}
+#old-elerning .card {
+    overflow: hidden;
+    margin-bottom: 15px;
+    height:315px;
+    border-radius: 15px 35px 0 0;
+}
+ul.hrcpo-list{
+    list-style: none;
+    padding:0;
+}
+.hrcpo-list >li{
+    margin-bottom: 15px;
+    overflow: hidden;
+    border-bottom: 1px solid #e2e2e2;
+}
+#hrcpo-list li .card{
+    height: 100px;
+    overflow: hidden;
+}
+#hrcpo-list li .card .hrcpo-content{
+    display: inline-block;
+    /*width: 80%;*/
+}
+.hrcpo-content .card-content-title{
+    width: 100%;
+    height:auto;
+}
+.hrcpo-content .success{
+    color: #12B72D;
+    display: inline-flex;
+    font-size: 0.95rem;
+    line-height: 1rem;
+}
+.hrcpo-content .danger{
+    color: #FF1414;
+    display: inline-flex;
+    font-size: 0.95rem;
+    line-height: 1rem;
+}
+.hrcpo-content .info {
+    color: #2197d2;
+    display: inline-flex;
+    font-size: 0.95rem;
+    line-height: 1rem;
+}
+.hrcpo-content i{
+    margin-right: 5px;
+}
+.rightbtn{
+    padding: 3px 12px;
+    border-radius: 15px;
+    width: 200px;
+    float: right;
+    font-size: 1.5rem;
+    color: #FFF;
+}
+.rightbtn:hover{
+    background-color: #ffa507;
+    border-color: #ffa507;
+    color: #FFF;
+}
+
+@media (max-width: 767px) {
+  .cardProfile{
+    margin-bottom: 30px;
+  }
+}

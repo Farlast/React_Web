@@ -1,0 +1,151 @@
+footer {
+  border-width: 0px;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  bottom: 0;
+  z-index: 0;
+}
+
+.footer2f {
+  position: relative;
+}
+.bgFooter {
+  background-color: #495BDE;
+  min-height: 222px;
+  width: 100%;
+}
+.bgOutRight {
+  background-color: #495BDE;
+}
+
+.footerHeader{
+  color: #fff;
+}
+.controlBg .row {
+  margin: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.controlBg .row div {
+  padding: 0;
+}
+
+#NHRCLogo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.zIndexFooter {
+  position: relative;
+  z-index: 1;
+}
+#NHRName {
+  margin-left: 15px;
+}
+
+#NHRName .thai-header {
+  display: inline-block;
+  font-size: 25px;
+  line-height: 25px;
+}
+#NHRName .eng-header {
+  display: block;
+  font-size: 20px;
+  line-height: 22px;
+}
+#NHRCTel {
+  /* position: absolute;
+    left:50px;
+    top:60px; */
+  color: #194f90;
+}
+#teltitle,
+#telinfo {
+  font-size: 18px;
+  line-height: 18px;
+  width: max-content;
+  font-family: "DBHeaventRounded";
+  margin: 0;
+}
+.contactFooter {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+#telephone {
+  color: #194f90;
+  font-size: 64px;
+  line-height: 60px;
+  font-family: "DBHeaventRounded";
+}
+.linkHover {
+  color: #fff;
+}
+.linkHover:hover {
+  color: #fbb617;
+}
+.controlTel {
+  display: flex;
+  align-items: center;
+}
+.controlTel img {
+  height: 41px;
+  margin-right: 10px;
+}
+.logoBg{
+  width: 180px;
+  height: 83px;
+  background: #fff;
+  padding: 0px;
+  margin: 0px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.socialicon {
+  margin: 15px;
+  height: 14px;
+}
+#footer-contact {
+  font-size: 1.2rem;
+  line-height: 1rem;
+}
+#footer-contact p {
+  margin: 0;
+}
+.textAddress {
+  color: #fff;
+  font-size: 25px;
+  line-height: 30px;
+}
+.heighFotter {
+  min-height: 222px;
+  align-items: center;
+}
+.flexAddress {
+  display: flex;
+}
+
+.recent-post{
+  color: #fff;
+}
+
+.footer-content{
+  display: flex;
+}
+.footer-content-b1{
+  width: 400px;
+}
+.recent-post{
+  width: 400px;
+}
+.followUs{
+  padding-left: 2rem;
+}

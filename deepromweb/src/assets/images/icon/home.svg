@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20.003" viewBox="0 0 20 20.003">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.56" y1="0.5" x2="0.116" y2="0.955" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2ea8d9"/>
+      <stop offset="1" stop-color="#1f5da7"/>
+    </linearGradient>
+  </defs>
+  <g id="Component_31_1" data-name="Component 31 – 1" transform="translate(0.001 0.003)">
+    <path id="Path_65" data-name="Path 65" class="cls-1" d="M284.3,367.277v8.982c-.092.372-.464.741-.744.741h-5.021c-.374-.277-.746-.369-.746-.649v-3.426h-1.672v3.241c-.187.185-.467.833-.746.833H270.26a2.067,2.067,0,0,0-.467-.277v-9.538a1.944,1.944,0,0,1,.467-.092c.277,0,.651.092.651.464v8.054h3.9v-3.333c.092-.185.279-.646.556-.646h3.256c.185.185.464.369.464.646v3.333h4v-8.518a.8.8,0,0,1,.556-.277C283.929,366.815,284.3,366.908,284.3,367.277Zm-4.649-7.685c1.487,1.482,7.346,7.921,7.346,8.569,0,.369-.372.136-.651.136-.556,0-7.162-7.408-9.3-9.723L267.47,368.2c-.559,0-.467-.462-.467-.646v-.372c2.977-3.149,5.951-6.387,8.928-9.444.372-.464.559-.741,1.023-.741.373,0,2.606,2.411,2.7,2.6Z" transform="translate(-266.998 -357)"/>
+  </g>
+</svg>
